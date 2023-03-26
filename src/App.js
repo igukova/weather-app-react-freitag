@@ -8,7 +8,7 @@ export default function App() {
     <div className="App">
       <h1>Weather Search Engine</h1>
       <WeatherSearch />
-      <footer>Open-source code by Iryna Gukova</footer>
+      <footer> <a href="https://github.com/igukova/weather-app-react-freitag"> Open-source code</a> by Iryna Gukova</footer>
     </div>
   );
 }
